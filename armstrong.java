@@ -1,5 +1,4 @@
 public class armstrong {
     public static void main(String[] args) {
-        System.out.println("I am in the main person ");
-    }
+        System.out.println("I am in the person2 person ");    }
 }
