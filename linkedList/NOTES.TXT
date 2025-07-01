@@ -1,0 +1,27 @@
+- Data in the linked list is stored in the heap memory.
+- Not at the contigious location.
+- Their size can be increased at any location.
+
+- Starting point of the linked list is called head of the linked list.
+- Every node will contain the address of the next node.
+- The last node contain the null as the next value known as the tail of the linked list.
+- We will store the data and pointer of the next.
+- It is simple chaining of one node to the other.
+
+- To use linkedList you must know about the struct and class in the java.
+
+### where it is used :
+
+- Stack / Queue data structure.
+
+### Where in real life
+
+- Browser   
+
+# 1D linked list
+
+Just keeping the forward pointer and not remembering the previos pointer , it doesn't know about it's previos one.
+
+## Memory Space used
+
+- Int + pointer = 4 + 8 = 12bytes.
