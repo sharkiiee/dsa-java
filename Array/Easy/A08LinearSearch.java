@@ -16,6 +16,4 @@ public class A08LinearSearch {
             System.out.println("Element found at index : " + f);
         }
     }
-
-
 }
